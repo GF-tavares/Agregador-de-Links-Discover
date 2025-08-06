@@ -13,7 +13,7 @@ function toggleMode() {
   // se tiver lightmode, adicionar a imagem light
   img.setAttribute("src", './assets/IMG_0560.jpeg')
   
-  // if (html.classList.contains("light")) {
+  //if (html.classList.contains("light")) {
      // se não, adicionar a imagem normal
      img.setAttribute("src", './assets/ChatGPT Image 3 de ago. de 2025, 17_16_51.png')
     
@@ -24,4 +24,4 @@ function toggleMode() {
 
 
   // substituir a imagem
-// } 
+//} 
